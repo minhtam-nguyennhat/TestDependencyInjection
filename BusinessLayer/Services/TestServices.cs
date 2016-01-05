@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using WebApplication1.Interfaces;
+using BusinessLayer.Interfaces;
 
-namespace WebApplication1.Services
+namespace BusinessLayer.Services
 {
     public class TestServices : ITestServices
     {

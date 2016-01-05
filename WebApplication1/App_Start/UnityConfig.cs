@@ -1,8 +1,8 @@
 using System;
 using Microsoft.Practices.Unity;
 using Microsoft.Practices.Unity.Configuration;
-using WebApplication1.Interfaces;
-using WebApplication1.Services;
+using BusinessLayer.Interfaces;
+using BusinessLayer.Services;
 
 namespace WebApplication1.App_Start
 {
